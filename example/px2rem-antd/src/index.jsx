@@ -1,5 +1,6 @@
 import './index.css'
-import 'amfe-flexible'
+// import 'amfe-flexible'
+import '../../../src/flexible'
 
 import React from 'react'
 import ReactDOM from 'react-dom'

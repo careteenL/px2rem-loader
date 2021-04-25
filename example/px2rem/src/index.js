@@ -1,2 +1,3 @@
 import './index.css'
-import 'amfe-flexible'
+import '../../../src/flexible'
+// import 'amfe-flexible'
