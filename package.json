@@ -1,0 +1,24 @@
+{
+  "name": "@careteen/px2rem-loader",
+  "version": "0.0.1",
+  "description": "enhance px2rem-loader",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careteenL/px2rem.git"
+  },
+  "keywords": [],
+  "author": "CareteenL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/careteenL/px2rem/issues"
+  },
+  "homepage": "https://github.com/careteenL/px2rem#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "px2rem": "^0.5.0"
+  }
+}
